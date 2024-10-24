@@ -164,7 +164,7 @@ const AllEmployeePage = () => {
                   direction={orderBy === "f_Mobile" ? sortDirection : "asc"}
                   onClick={() => handleSort("f_Mobile")}
                 >
-                  Mobile
+                  Mobile no
                 </TableSortLabel>
               </TableCell>
               <TableCell>Designation</TableCell>
