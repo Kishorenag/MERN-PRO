@@ -1,0 +1,17 @@
+# Client and server node_modules
+client/node_modules/
+mern-admin-panel/node_modules/
+
+# Logs
+logs/
+*.log
+
+# Env files
+.env
+mern-admin-panel/.env
+
+# Misc
+.DS_Store
+
+# Ignore production build from client side
+client/build/
